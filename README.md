@@ -3,8 +3,6 @@
 
 A comprehensive system for managing student data, courses, assignments, hostels, finances, and more.
 
-![Student Management System Banner]
-
 ## Table of Contents
 
 - [Features](#features)
